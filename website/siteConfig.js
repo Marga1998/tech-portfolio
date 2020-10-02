@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Margarita Fernandez', // Title for your website.
     tagline: 'This site made as part of a workshop attended during the vGHC.',
     profilePhoto: 'img/profile.png',
-    url: 'https://Marga1998.github.io', // Your website URL
+    url: 'https://marga1998.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
